@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+site-packages/
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env
+
+# Secrets & credentials
+token.json
+client_secret_*.json
+credientials/
+*.pem
+*.key
+
+# Logs
+logs/
+*.log
+
+architecture_prompt.md
+
+# LangGraph / LangSmith
+.langgraph_api/
+
+# Jupyter
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# uv
+.uv/
+uv.lock
+
+# Misc
+*.bak
+*.tmp

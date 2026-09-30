@@ -1,0 +1,7 @@
+Model:
+  llm:
+    provider_1:
+      model_id: "groq:qwen/qwen3.8-27b"
+    provider_2:
+      model_id: "groq:openai/gpt-oss-120b"
+      

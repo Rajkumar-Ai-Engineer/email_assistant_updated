@@ -1,0 +1,12 @@
+langchain
+langgraph
+deepagents
+python-dotenv
+langchain-groq
+ipykernel
+streamlit
+pyyaml
+pydantic
+google-api-python-client
+google-auth-oauthlib
+structlog
